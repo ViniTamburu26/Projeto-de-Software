@@ -2,6 +2,7 @@
 Profa. Ana Cláudia Rossi
 
 #Membros:
+
 -> Julian de Campos Teixeira - 32210779
 -> Luis Gustavo Aguirre Castanho - 32216653
 -> Vinicius Moreira Tamburu - 32227515
