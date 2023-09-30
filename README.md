@@ -10,7 +10,7 @@ Profa. Ana Cláudia Rossi
 -> Vinicius Moreira Tamburu - 32227515
 
 
-Repositório destinado ao projeto do software de serviço de apoio à moradores em situação de vulnerabilidade. 
+Repositório destinado ao projeto do software EMPATHYLINK, um software de serviço de apoio à moradores em situação de vulnerabilidade. 
 
 Para mais informações, visitar a aba Wiki! 
 
